@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientNTP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientNTP_jar</output-path>
+    <root id="archive" name="ClientNTP.jar">
+      <element id="module-output" name="ClientNTP" />
+    </root>
+  </artifact>
+</component>
